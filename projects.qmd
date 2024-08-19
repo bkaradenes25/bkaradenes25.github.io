@@ -1,0 +1,28 @@
+---
+title: "Projects"
+---
+
+## SCORE Network
+
+[SCORE](https://scorenetwork.org/index.html){target="_blank"} is a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science, funded by the National Science Foundation.
+
+I worked on this project during my junior year spring semester and the following summer as a summer fellow. My main role in the project was a content creator - producing modules and working with my classmates and professors to create data science education materials to place in the SCORE network.
+
+Examples of the work can be found here:
+
+- [https://modules.scorenetwork.org/](https://modules.scorenetwork.org/){target="_blank"}: contains the completed modules produced across all of SCORE.
+    
+- [https://data.scorenetwork.org/](https://data.scorenetwork.org/){target="_blank"}: A data repository containing sports related datasets.
+
+- [https://iramler.github.io/slu_score_preprints/](https://iramler.github.io/slu_score_preprints/){target="_blank"}: A repository of in-development modules produced by St. Lawrence University students and faculty. Many of the modules linked here are currently under review for inclusion in the SCORE Network's repository linked above.
+
+## MLB Spray Charts Shiny App
+
+I created a shiny app displaying Major League Baseball batting spray charts for the 2019-2023 playoffs. The app includes the different types of balls in play, filters for distance and exit velocity, and whether a player was a pull, opposite field, or evenly spread hitter. The app can be found [Here](https://bkaradenes.shinyapps.io/Batting/){target="_blank"}.
+
+## Megadetector
+
+For my current computer science internship for [Nature Up North](https://www.natureupnorth.org/){target="_blank"} I am working on modifying Microsoft's Megadetector python script in order to automate game camera image sorting that Nature Up North receives from community members. The repository for this can be found [Here](https://github.com/NatureUpNorth/MegaDetector){target="_blank"}.
+
+
+

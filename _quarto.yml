@@ -2,16 +2,36 @@ project:
   type: website
 
 website:
-  title: "bkaradenes25.github.io"
+  site-url: "https://bkaradenes25.github.io/"
+  title: "Brendan Karadenes"
   navbar:
-    left:
+    Right:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - courses.qmd
+      - href: about.qmd
+        text: About
+      - href: courses.qmd
+        text: Courses
+      - href: projects.qmd
+        text: Projects
+      - text: Contact
+        menu:
+          - icon: linkedin
+            text: LinkedIn
+            href: https://www.linkedin.com/in/brendan-karadenes-847962252/
+            target: _blank
+          - icon: envelope
+            text: Email
+            href: mailto:bekara21@stlawu.edu
+          - icon: github
+            text: GitHub
+            href: https://github.com/bkaradenes25
+            target: _blank
 
 format:
   html:
+    page-layout: full
+    sidebar: false
     theme: cosmo
     css: styles.css
     toc: true
