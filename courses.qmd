@@ -5,7 +5,7 @@ title: "Courses"
 Here are some details about the relevant coursework that I have completed at St. Lawrence University.
 
 ::: {.callout-note collapse="true" title="Applied Regression Analysis" appearance="simple"}
-A mid-level statistics class focused on applying data using R. Topics include simple and multiple linear regression, model diagnostics and testing, residual analysis, transformations, indicator variables, variable selection techniques, logistic regression, and analysis of variance.
+A mid-level statistics class focused on applying data using R. Topics include simple and multiple linear regression, model diagnostics and testing, residual analysis, transformations, indicator variables, variable selection techniques, logistic regression, and analysis of variance. 
 :::
 
 ::: {.callout-note collapse="true" title="Intro to Data Science" appearance="simple"}
