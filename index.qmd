@@ -2,6 +2,8 @@
 title: "Welcome!"
 ---
 
-Hello, I am Brendan Karadenes. I
+Hello! I am Brendan Karadenes, a senior Data Science major at St. Lawrence University.
+
+I have worked on numerous projects in R, Python, and Java. I am most interested in modeling sports data. 
 
 

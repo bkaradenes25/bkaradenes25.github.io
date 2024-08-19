@@ -19,3 +19,4 @@ The course used strategies in Java to organize, process, and retrieve data. Topi
 ::: {.callout-note collapse="true" title="Data Visualization" appearance="simple"}
 An upper level statistics class focused on visualizing data using R. Topics include mapping data, linear regression, logistic regression, interactivity, and building a shiny app. The course includes an introduction to computer analysis of data with a statistical computing package. There was a heavy focus on ethically communicating and presenting data.
 :::
+
