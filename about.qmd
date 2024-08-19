@@ -6,6 +6,13 @@ title: "About"
 
 As a senior at St. Lawrence University, I have worked on various projects focused on visualizing data and statistics education. 
 
+For my Data Visualization final project I created a shiny app in R displaying MLB playoff spray charts.
+
+As an intern for Nature Up North I am developing a python script to sort game camera images.
+
 This past summer (2024) I worked on developing modules for the [SCORE Network](https://data.scorenetwork.org/){target="_blank"} with Dr. Ivan Ramler and Dr. Robin Lock. The modules include statistics and data science education materials for underrepresented sports including professional woman's hockey, olympic swimming, UFC, and more.
 
 For my senior year honors project I will be using cluster analysis in python working with MLB pitch data with Dr. Ramler.  
+
+More info about these projects can be found in the "Projects" tab.
+
