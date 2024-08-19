@@ -7,6 +7,34 @@
     "text": "Hello! I am Brendan Karadenes, a senior Data Science major at St. Lawrence University.\nI have worked on numerous projects in R, Python, and Java. I am most interested in modeling sports data."
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "SCORE is a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science, funded by the National Science Foundation.\nI worked on this project during my junior year spring semester and the following summer as a summer fellow. My main role in the project was a content creator - producing modules and working with my classmates and professors to create data science education materials to place in the SCORE network.\nExamples of the work can be found here:\n\nhttps://modules.scorenetwork.org/: contains the completed modules produced across all of SCORE.\nhttps://data.scorenetwork.org/: A data repository containing sports related datasets.\nhttps://iramler.github.io/slu_score_preprints/: A repository of in-development modules produced by St. Lawrence University students and faculty. Many of the modules linked here are currently under review for inclusion in the SCORE Network’s repository linked above."
+  },
+  {
+    "objectID": "projects.html#score-network",
+    "href": "projects.html#score-network",
+    "title": "Projects",
+    "section": "",
+    "text": "SCORE is a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science, funded by the National Science Foundation.\nI worked on this project during my junior year spring semester and the following summer as a summer fellow. My main role in the project was a content creator - producing modules and working with my classmates and professors to create data science education materials to place in the SCORE network.\nExamples of the work can be found here:\n\nhttps://modules.scorenetwork.org/: contains the completed modules produced across all of SCORE.\nhttps://data.scorenetwork.org/: A data repository containing sports related datasets.\nhttps://iramler.github.io/slu_score_preprints/: A repository of in-development modules produced by St. Lawrence University students and faculty. Many of the modules linked here are currently under review for inclusion in the SCORE Network’s repository linked above."
+  },
+  {
+    "objectID": "projects.html#mlb-spray-charts-shiny-app",
+    "href": "projects.html#mlb-spray-charts-shiny-app",
+    "title": "Projects",
+    "section": "MLB Spray Charts Shiny App",
+    "text": "MLB Spray Charts Shiny App\nI created a shiny app displaying Major League Baseball batting spray charts for the 2019-2023 playoffs. The app includes the different types of balls in play, filters for distance and exit velocity, and whether a player was a pull, opposite field, or evenly spread hitter. The app can be found Here."
+  },
+  {
+    "objectID": "projects.html#megadetector",
+    "href": "projects.html#megadetector",
+    "title": "Projects",
+    "section": "Megadetector",
+    "text": "Megadetector\nFor my current computer science internship for Nature Up North I am working on modifying Microsoft’s Megadetector python script in order to automate game camera image sorting that Nature Up North receives from community members. The repository for this can be found Here."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
