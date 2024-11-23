@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Brendan Karadenes - About</title>
+<title>Brendan Karadenes - Projects</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -93,7 +93,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
@@ -101,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Courses</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
+    <a class="nav-link active" href="./projects.html" aria-current="page"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -142,7 +142,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#experience" id="toc-experience" class="nav-link active" data-scroll-target="#experience">Experience</a></li>
+  <li><a href="#score-network" id="toc-score-network" class="nav-link active" data-scroll-target="#score-network">SCORE Network</a></li>
+  <li><a href="#mlb-spray-charts-shiny-app" id="toc-mlb-spray-charts-shiny-app" class="nav-link" data-scroll-target="#mlb-spray-charts-shiny-app">MLB Spray Charts Shiny App</a></li>
+  <li><a href="#megadetector" id="toc-megadetector" class="nav-link" data-scroll-target="#megadetector">Megadetector</a></li>
+  <li><a href="#north-country-wild-uploader" id="toc-north-country-wild-uploader" class="nav-link" data-scroll-target="#north-country-wild-uploader">North Country Wild Uploader</a></li>
+  <li><a href="#clustering-mlb-starting-pitchers" id="toc-clustering-mlb-starting-pitchers" class="nav-link" data-scroll-target="#clustering-mlb-starting-pitchers">Clustering MLB Starting Pitchers</a></li>
+  <li><a href="#books-database" id="toc-books-database" class="nav-link" data-scroll-target="#books-database">Books Database</a></li>
   </ul>
 </nav>
     </div>
@@ -151,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About</h1>
+<h1 class="title">Projects</h1>
 </div>
 
 
@@ -168,15 +173,37 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="experience" class="level2">
-<h2 class="anchored" data-anchor-id="experience">Experience</h2>
-<p>As a senior at St.&nbsp;Lawrence University, I have worked on various projects focused on visualizing data and statistics education.</p>
-<p>For my Data Visualization final project I created a shiny app in R displaying MLB playoff spray charts.</p>
-<p>As a computer science intern for Nature Up North I am developing a python script to sort game camera images. In addition, I worked on a game camera images uploader in Java.</p>
-<p>This past summer (2024) I worked on developing modules for the <a href="https://data.scorenetwork.org/" target="_blank">SCORE Network</a> with Dr.&nbsp;Ivan Ramler and Dr.&nbsp;Robin Lock. The modules include statistics and data science education materials for underrepresented sports including professional woman’s hockey, olympic swimming, UFC, and more.</p>
-<p>For my senior year honors project I will am using cluster analysis in Python and R working with MLB pitch data with Dr.&nbsp;Ramler.</p>
-<p>In my Database Systems class I worked with two classmates on creating and writing queries for a book ratings database.</p>
-<p>More info about these projects can be found in the “Projects” tab.</p>
+<section id="score-network" class="level2">
+<h2 class="anchored" data-anchor-id="score-network">SCORE Network</h2>
+<p><a href="https://scorenetwork.org/index.html" target="_blank">SCORE</a> is a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science, funded by the National Science Foundation.</p>
+<p>I worked on this project during my junior year spring semester and the following summer as a summer fellow. My main role in the project was a content creator - producing modules and working with my classmates and professors to create data science education materials to place in the SCORE network.</p>
+<p>My workflow process included finding/scraping a relevant data set, creating exploratory graphs and models using R, creating worksheets and learning modules, then sending my work to peers and faculty to be peer reviewed.</p>
+<p>Examples of the work can be found here:</p>
+<ul>
+<li><p><a href="https://modules.scorenetwork.org/" target="_blank">https://modules.scorenetwork.org/</a>: contains the completed modules produced across all of SCORE.</p></li>
+<li><p><a href="https://data.scorenetwork.org/" target="_blank">https://data.scorenetwork.org/</a>: A data repository containing sports related datasets.</p></li>
+<li><p><a href="https://iramler.github.io/slu_score_preprints/" target="_blank">https://iramler.github.io/slu_score_preprints/</a>: A repository of in-development modules produced by St.&nbsp;Lawrence University students and faculty. Many of the modules linked here are currently under review for inclusion in the SCORE Network’s repository linked above.</p></li>
+</ul>
+</section>
+<section id="mlb-spray-charts-shiny-app" class="level2">
+<h2 class="anchored" data-anchor-id="mlb-spray-charts-shiny-app">MLB Spray Charts Shiny App</h2>
+<p>I created a shiny app displaying Major League Baseball batting spray charts for the 2019-2023 playoffs. The app includes the different types of balls in play, filters for distance and exit velocity, and whether a player was a pull, opposite field, or evenly spread hitter. The app can be found <a href="https://bkaradenes.shinyapps.io/Batting/" target="_blank">Here</a>.</p>
+</section>
+<section id="megadetector" class="level2">
+<h2 class="anchored" data-anchor-id="megadetector">Megadetector</h2>
+<p>For my current computer science internship for <a href="https://www.natureupnorth.org/" target="_blank">Nature Up North</a> I am working on modifying Microsoft’s Megadetector Python script in order to automate game camera image sorting that Nature Up North receives from community members. The repository for this can be found <a href="https://github.com/NatureUpNorth/MegaDetector" target="_blank">Here</a>.</p>
+</section>
+<section id="north-country-wild-uploader" class="level1">
+<h1>North Country Wild Uploader</h1>
+<p>For <a href="https://www.natureupnorth.org/" target="_blank">Nature Up North</a> I helped develop an uploader for game camera images that will be used by community members in upstate NY. The uploader is written in Java and has the user fill out a variety of information including location, organization, dates, and habitat. This repository can be found <a href="https://github.com/NatureUpNorth/NCW-Uploader" target="_blank">Here</a>.</p>
+</section>
+<section id="clustering-mlb-starting-pitchers" class="level1">
+<h1>Clustering MLB Starting Pitchers</h1>
+<p>For my Honors Senior Project I am working on clustering MLB starting pitchers from the 2023 season. I am currently using R and will be using Python in the Spring 2025 semester. By grouping pitchers based on pitch selection, I’m looking to see how pitchers within those groups may change their “style” under different conditions i.e runners in scoring position, different counts, different outs, different types of hitters. So far I’ve used heatmaps, linear models, hierarchal clustering, ranks and z-scores to visualize the data.</p>
+</section>
+<section id="books-database" class="level1">
+<h1>Books Database</h1>
+<p>Using data found <a href="https://www.kaggle.com/datasets/saurabhbagchi/books-dataset" target="_blank">Here</a> two groupmates and I created a database granting each other access to the different tables and setting up primary and foreign keys. Then, we made queries to find information such as average book rating, top 10 reviewers, inserting new users, and most popular books.</p>
 
 
 </section>
