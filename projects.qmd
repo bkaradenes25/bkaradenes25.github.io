@@ -8,6 +8,8 @@ title: "Projects"
 
 I worked on this project during my junior year spring semester and the following summer as a summer fellow. My main role in the project was a content creator - producing modules and working with my classmates and professors to create data science education materials to place in the SCORE network.
 
+My workflow process included finding/scraping a relevant data set, creating exploratory graphs and models using R, creating worksheets and learning modules, then sending my work to peers and faculty to be peer reviewed.
+
 Examples of the work can be found here:
 
 - [https://modules.scorenetwork.org/](https://modules.scorenetwork.org/){target="_blank"}: contains the completed modules produced across all of SCORE.
@@ -22,7 +24,17 @@ I created a shiny app displaying Major League Baseball batting spray charts for 
 
 ## Megadetector
 
-For my current computer science internship for [Nature Up North](https://www.natureupnorth.org/){target="_blank"} I am working on modifying Microsoft's Megadetector python script in order to automate game camera image sorting that Nature Up North receives from community members. The repository for this can be found [Here](https://github.com/NatureUpNorth/MegaDetector){target="_blank"}.
+For my current computer science internship for [Nature Up North](https://www.natureupnorth.org/){target="_blank"} I am working on modifying Microsoft's Megadetector Python script in order to automate game camera image sorting that Nature Up North receives from community members. The repository for this can be found [Here](https://github.com/NatureUpNorth/MegaDetector){target="_blank"}.
 
+# North Country Wild Uploader
 
+For [Nature Up North](https://www.natureupnorth.org/){target="_blank"} I helped develop an uploader for game camera images that will be used by community members in upstate NY. The uploader is written in Java and has the user fill out a variety of information including location, organization, dates, and habitat. This repository can be found [Here](https://github.com/NatureUpNorth/NCW-Uploader){target="_blank"}.
+
+# Clustering MLB Starting Pitchers
+
+For my Honors Senior Project I am working on clustering MLB starting pitchers from the 2023 season. I am currently using R and will be using Python in the Spring 2025 semester. By grouping pitchers based on pitch selection, I'm looking to see how pitchers within those groups may change their "style" under different conditions i.e runners in scoring position, different counts, different outs, different types of hitters. So far I've used heatmaps, linear models, hierarchal clustering, ranks and z-scores to visualize the data.
+
+# Books Database
+
+Using data found [Here](https://www.kaggle.com/datasets/saurabhbagchi/books-dataset){target="_blank"} two groupmates and I created a database granting each other access to the different tables and setting up primary and foreign keys. Then, we made queries to find information such as average book rating, top 10 reviewers, inserting new users, and most popular books.
 

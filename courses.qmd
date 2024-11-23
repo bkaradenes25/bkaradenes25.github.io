@@ -20,6 +20,10 @@ The course used strategies in Java to organize, process, and retrieve data. Topi
 An upper level statistics class focused on visualizing data using R. Topics include mapping data, linear regression, logistic regression, interactivity, and building a shiny app. The course includes an introduction to computer analysis of data with a statistical computing package. There was a heavy focus on ethically communicating and presenting data.
 :::
 
+::: {.callout-note collapse="true" title="Database Systems" appearance="simple"}
+An upper level computer science class focused on using SQL and Python. A look at how data is logically organized, physically stored on a digital device, and queried. Focuses primarily on relational database systems and structured queries. Other topics include non-relational data models, privacy, security, performance, and reliability.
+:::
 
-
-
+::: {.callout-note collapse="true" title="Time Series Analysis" appearance="simple"}
+An upper level statistics class. Statistical methods for analyzing data that vary over time are investigated. Topics may include forecasting systems, regression methods, moving averages, exponential smoothing, seasonal data, analysis of residuals, prediction intervals and Box-Jenkins models. Application to real data, particularly economic data, is emphasized along with the mathematical theory underlying the various models and techniques.
+:::
