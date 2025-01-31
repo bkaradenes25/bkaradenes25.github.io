@@ -27,3 +27,8 @@ An upper level computer science class focused on using SQL and Python. A look at
 ::: {.callout-note collapse="true" title="Time Series Analysis" appearance="simple"}
 An upper level statistics class. Statistical methods for analyzing data that vary over time are investigated. Topics may include forecasting systems, regression methods, moving averages, exponential smoothing, seasonal data, analysis of residuals, prediction intervals and Box-Jenkins models. Application to real data, particularly economic data, is emphasized along with the mathematical theory underlying the various models and techniques.
 :::
+
+::: {.callout-note collapse="true" title="Statistical and Machine Learning" appearance="simple"}
+Introduces techniques for developing advanced models from datasets, for the purposes of better understanding the data and making predictions about future data. Techniques include linear and regularized regression, nearest neighbor classification, support vector machines, decision tree ensembles, and neural networks. Examines real-world applications, both successes and failures, the latter of which often involve data with embedded biases. Students will develop both technical and ethical competence in using some of the most powerful computational tools in data science.
+:::
+
