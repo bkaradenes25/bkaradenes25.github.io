@@ -7,25 +7,11 @@
     "text": "Here are some details about the relevant coursework that I have completed at St. Lawrence University.\n\n\n\n\n\n\nApplied Regression Analysis\n\n\n\n\n\nA mid-level statistics class focused on applying data using R. Topics include simple and multiple linear regression, model diagnostics and testing, residual analysis, transformations, indicator variables, variable selection techniques, logistic regression, and analysis of variance.\n\n\n\n\n\n\n\n\n\nIntro to Data Science\n\n\n\n\n\nThe course focused on applying data science and statistical methods using R. Topics included data manipulation and visualization, programming, string manipulation, and modern data sources (such as web and databases). This course taught the building blocks of larger scale data science projects.\n\n\n\n\n\n\n\n\n\nData Structures\n\n\n\n\n\nThe course used strategies in Java to organize, process, and retrieve data. Topics included arrays, lists, stacks, queues, maps, trees, and algorithm analysis.\n\n\n\n\n\n\n\n\n\nData Visualization\n\n\n\n\n\nAn upper level statistics class focused on visualizing data using R. Topics include mapping data, linear regression, logistic regression, interactivity, and building a shiny app. The course includes an introduction to computer analysis of data with a statistical computing package. There was a heavy focus on ethically communicating and presenting data.\n\n\n\n\n\n\n\n\n\nDatabase Systems\n\n\n\n\n\nAn upper level computer science class focused on using SQL and Python. A look at how data is logically organized, physically stored on a digital device, and queried. Focuses primarily on relational database systems and structured queries. Other topics include non-relational data models, privacy, security, performance, and reliability.\n\n\n\n\n\n\n\n\n\nTime Series Analysis\n\n\n\n\n\nAn upper level statistics class. Statistical methods for analyzing data that vary over time are investigated. Topics may include forecasting systems, regression methods, moving averages, exponential smoothing, seasonal data, analysis of residuals, prediction intervals and Box-Jenkins models. Application to real data, particularly economic data, is emphasized along with the mathematical theory underlying the various models and techniques.\n\n\n\n\n\n\n\n\n\nStatistical and Machine Learning\n\n\n\n\n\nIntroduces techniques for developing advanced models from datasets, for the purposes of better understanding the data and making predictions about future data. Techniques include linear and regularized regression, nearest neighbor classification, support vector machines, decision tree ensembles, and neural networks. Examines real-world applications, both successes and failures, the latter of which often involve data with embedded biases. Students will develop both technical and ethical competence in using some of the most powerful computational tools in data science."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome!",
-    "section": "",
-    "text": "Hello! I am Brendan Karadenes, a senior Data Science major at St. Lawrence University.\nI have worked on numerous projects in R, Python, SQL, and Java."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "As a senior at St. Lawrence University, I have worked on various projects focused on visualizing data and statistics education.\nFor my Data Visualization final project I created a shiny app in R displaying MLB playoff spray charts.\nAs a computer science intern for Nature Up North I am developing a python script to sort game camera images. In addition, I worked on a game camera images uploader in Java.\nThis past summer (2024) I worked on developing modules for the SCORE Network with Dr. Ivan Ramler and Dr. Robin Lock. The modules include statistics and data science education materials for underrepresented sports including professional woman’s hockey, olympic swimming, UFC, and more.\nFor my senior year honors project I will am using cluster analysis in Python and R working with MLB pitch data with Dr. Ramler.\nIn my Database Systems class I worked with two classmates on creating and writing queries for a book ratings database.\nMore info about these projects can be found in the “Projects” tab."
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "About",
-    "section": "",
-    "text": "As a senior at St. Lawrence University, I have worked on various projects focused on visualizing data and statistics education.\nFor my Data Visualization final project I created a shiny app in R displaying MLB playoff spray charts.\nAs a computer science intern for Nature Up North I am developing a python script to sort game camera images. In addition, I worked on a game camera images uploader in Java.\nThis past summer (2024) I worked on developing modules for the SCORE Network with Dr. Ivan Ramler and Dr. Robin Lock. The modules include statistics and data science education materials for underrepresented sports including professional woman’s hockey, olympic swimming, UFC, and more.\nFor my senior year honors project I will am using cluster analysis in Python and R working with MLB pitch data with Dr. Ramler.\nIn my Database Systems class I worked with two classmates on creating and writing queries for a book ratings database.\nMore info about these projects can be found in the “Projects” tab."
+    "text": "At St. Lawrence University, I worked on various projects focused on visualizing data and statistics education.\nFor my Data Visualization final project I created a shiny app in R displaying MLB playoff spray charts for hitters.\nAs a computer science intern for Nature Up North I developed a python script to sort game camera images. In addition, I worked on a game camera images uploader in Java.\nI worked on developing modules for the SCORE Network with Dr. Ivan Ramler and Dr. Robin Lock. The modules include statistics and data science education materials for underrepresented sports including professional woman’s hockey, olympic swimming, UFC, and more.\nFor my senior year honors project I used cluster analysis to find pitch selection insights in Python and R working with MLB data with Dr. Ramler.\nIn my Database Systems class I worked with two classmates on creating and writing queries for a book ratings database with over a million entries.\nMore info about these projects can be found in the “Projects” tab."
   },
   {
     "objectID": "projects.html",
@@ -53,6 +39,41 @@
     "href": "projects.html#megadetector",
     "title": "Projects",
     "section": "Megadetector",
-    "text": "Megadetector\nFor my current computer science internship for Nature Up North I am working on modifying Microsoft’s Megadetector Python script in order to automate game camera image sorting that Nature Up North receives from community members. The repository for this can be found Here."
+    "text": "Megadetector\nFor my computer science internship for Nature Up North I worked on modifying Microsoft’s Megadetector Python script in order to automate game camera image sorting that Nature Up North receives from community members. The repository for this can be found Here."
+  },
+  {
+    "objectID": "projects.html#north-country-wild-uploader",
+    "href": "projects.html#north-country-wild-uploader",
+    "title": "Projects",
+    "section": "North Country Wild Uploader",
+    "text": "North Country Wild Uploader\nFor Nature Up North I helped develop an uploader for game camera images that will be used by community members in upstate NY. The uploader is written in Java and has the user fill out a variety of information including location, organization, dates, and habitat. This repository can be found Here."
+  },
+  {
+    "objectID": "projects.html#north-country-wild-image-filtering",
+    "href": "projects.html#north-country-wild-image-filtering",
+    "title": "Projects",
+    "section": "North Country Wild Image Filtering",
+    "text": "North Country Wild Image Filtering\nMy last project for Nature Up North was editing Python scripts to filter the images and make it easier to upload to the Zooniverse site. The work involved updating the modules and ensuring each image has the correct location, timestamp, and copyright information. The repository can be found Here."
+  },
+  {
+    "objectID": "projects.html#clustering-mlb-starting-pitchers",
+    "href": "projects.html#clustering-mlb-starting-pitchers",
+    "title": "Projects",
+    "section": "Clustering MLB Starting Pitchers",
+    "text": "Clustering MLB Starting Pitchers\nFor my Honors Senior Project I clustered MLB starting pitchers from the 2023 season. I used both R and Python to achieve this. By grouping pitchers based on pitch selection, I’m looking to see how pitchers within those groups may change their “style” under different conditions i.e runners in scoring position, different counts, different outs, different types of hitters. I used heatmaps, linear models, hierarchal clustering, ranks and z-scores to visualize the data. The project culminated in a 40-page report where I explained each step of the process. The repository for this can be found Here."
+  },
+  {
+    "objectID": "projects.html#books-database",
+    "href": "projects.html#books-database",
+    "title": "Projects",
+    "section": "Books Database",
+    "text": "Books Database\nUsing data found Here two groupmates and I created a database granting each other access to the different tables and setting up primary and foreign keys. Then, we made queries to find information such as average book rating, top 10 reviewers, inserting new users, and most popular books."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Hello! I am Brendan Karadenes, a May 2025 graduate of St. Lawrence University. I graduated Magna Cum Laude with Honors in Data Science.\nI have worked on numerous projects through coursework and internships in R, Python, SQL, and Java.\nCurrently, I am searching for full-time positions in Data Science and Data Analytics.\nMy contact information can be found under the “Contact” tab in the upper right-hand corner. Feel free to reach out!"
   }
 ]
