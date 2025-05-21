@@ -2,8 +2,10 @@
 title: "Welcome!"
 ---
 
-Hello! I am Brendan Karadenes, a senior Data Science major at St. Lawrence University.
+Hello! I am Brendan Karadenes, a May 2025 graduate of St. Lawrence University. I graduated Magna Cum Laude with Honors in Data Science.
 
-I have worked on numerous projects in R, Python, SQL, and Java. 
+I have worked on numerous projects through coursework and internships in R, Python, SQL, and Java. 
 
+Currently, I am searching for full-time positions in Data Science and Data Analytics. 
 
+My contact information can be found under the "Contact" tab in the upper right-hand corner. Feel free to reach out!

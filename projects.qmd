@@ -24,17 +24,21 @@ I created a shiny app displaying Major League Baseball batting spray charts for 
 
 ## Megadetector
 
-For my current computer science internship for [Nature Up North](https://www.natureupnorth.org/){target="_blank"} I am working on modifying Microsoft's Megadetector Python script in order to automate game camera image sorting that Nature Up North receives from community members. The repository for this can be found [Here](https://github.com/NatureUpNorth/MegaDetector){target="_blank"}.
+For my computer science internship for [Nature Up North](https://www.natureupnorth.org/){target="_blank"} I worked on modifying Microsoft's Megadetector Python script in order to automate game camera image sorting that Nature Up North receives from community members. The repository for this can be found [Here](https://github.com/NatureUpNorth/MegaDetector){target="_blank"}.
 
-# North Country Wild Uploader
+## North Country Wild Uploader
 
 For [Nature Up North](https://www.natureupnorth.org/){target="_blank"} I helped develop an uploader for game camera images that will be used by community members in upstate NY. The uploader is written in Java and has the user fill out a variety of information including location, organization, dates, and habitat. This repository can be found [Here](https://github.com/NatureUpNorth/NCW-Uploader){target="_blank"}.
 
-# Clustering MLB Starting Pitchers
+## North Country Wild Image Filtering
 
-For my Honors Senior Project I am working on clustering MLB starting pitchers from the 2023 season. I am currently using R and will be using Python in the Spring 2025 semester. By grouping pitchers based on pitch selection, I'm looking to see how pitchers within those groups may change their "style" under different conditions i.e runners in scoring position, different counts, different outs, different types of hitters. So far I've used heatmaps, linear models, hierarchal clustering, ranks and z-scores to visualize the data.
+My last project for Nature Up North was editing Python scripts to filter the images and make it easier to upload to the Zooniverse site. The work involved updating the modules and ensuring each image has the correct location, timestamp, and copyright information. The repository can be found [Here](https://github.com/NatureUpNorth/North-Country-Wild/tree/main){target="_blank"}.
 
-# Books Database
+## Clustering MLB Starting Pitchers
+
+For my Honors Senior Project I clustered MLB starting pitchers from the 2023 season. I used both R and Python to achieve this. By grouping pitchers based on pitch selection, I'm looking to see how pitchers within those groups may change their "style" under different conditions i.e runners in scoring position, different counts, different outs, different types of hitters. I used heatmaps, linear models, hierarchal clustering, ranks and z-scores to visualize the data. The project culminated in a 40-page report where I explained each step of the process. The repository for this can be found [Here](https://github.com/bkaradenes25/SYE){target="_blank"}.
+
+## Books Database
 
 Using data found [Here](https://www.kaggle.com/datasets/saurabhbagchi/books-dataset){target="_blank"} two groupmates and I created a database granting each other access to the different tables and setting up primary and foreign keys. Then, we made queries to find information such as average book rating, top 10 reviewers, inserting new users, and most popular books.
 
