@@ -56,6 +56,13 @@
     "text": "Books Database\nUsing data found Here two groupmates and I created a database granting each other access to the different tables and setting up primary and foreign keys. Then, we made queries to find information such as average book rating, top 10 reviewers, inserting new users, and most popular books."
   },
   {
+    "objectID": "projects.html#data-science-blog",
+    "href": "projects.html#data-science-blog",
+    "title": "Projects",
+    "section": "Data Science Blog",
+    "text": "Data Science Blog\nI created a blog on Medium that showcases some additional project work, along with some baseball scouting reports. For projects, I go into depth on my pitch clustering and recommender project, a citi bike machine learning model, various minor league scouting reports, Trackman data cleaning, a small project using Driveline’s OpenBiomechanics data, and player acquisition analysis for the New York Mets. The blog can be found Here."
+  },
+  {
     "objectID": "courses.html",
     "href": "courses.html",
     "title": "Courses",

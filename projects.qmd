@@ -42,3 +42,6 @@ For my Honors Senior Project I clustered MLB starting pitchers from the 2023 sea
 
 Using data found [Here](https://www.kaggle.com/datasets/saurabhbagchi/books-dataset){target="_blank"} two groupmates and I created a database granting each other access to the different tables and setting up primary and foreign keys. Then, we made queries to find information such as average book rating, top 10 reviewers, inserting new users, and most popular books.
 
+## Data Science Blog
+
+I created a blog on Medium that showcases some additional project work, along with some baseball scouting reports. For projects, I go into depth on my pitch clustering and recommender project, a citi bike machine learning model, various minor league scouting reports, Trackman data cleaning, a small project using Driveline's OpenBiomechanics data, and player acquisition analysis for the New York Mets. The blog can be found [Here](https://medium.com/@bkaradenes){target="_blank"}.
