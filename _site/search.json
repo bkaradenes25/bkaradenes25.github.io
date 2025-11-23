@@ -56,6 +56,13 @@
     "text": "Books Database\nUsing data found Here two groupmates and I created a database granting each other access to the different tables and setting up primary and foreign keys. Then, we made queries to find information such as average book rating, top 10 reviewers, inserting new users, and most popular books."
   },
   {
+    "objectID": "projects.html#pitch-recommender-app",
+    "href": "projects.html#pitch-recommender-app",
+    "title": "Projects",
+    "section": "Pitch Recommender App",
+    "text": "Pitch Recommender App\nUsing Statcast pitch-by-pitch data, I developed a machine learning model that I turned into a Streamlit app that serves as a pitch recommender based on game situation. The app is written in Python and the repository can be found Here. After applying the situation (outs, innings, runners on base, etc.), you will get ranked pitches based on predicted success probabilities. The app can be found Here."
+  },
+  {
     "objectID": "projects.html#data-science-blog",
     "href": "projects.html#data-science-blog",
     "title": "Projects",
